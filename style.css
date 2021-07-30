@@ -1,0 +1,18 @@
+h1 {
+	color: blue;
+	text-align: center;
+
+}
+
+h2 {
+	color: red;
+}
+
+p1 {
+	float: left;
+	color: red;
+}
+
+body {
+	background-image: url('Tork-Website-Background.png'); 
+}
