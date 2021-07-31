@@ -5,14 +5,22 @@ h1 {
 }
 
 h2 {
-	color: red;
+	color: black;
 }
 
 p1 {
 	float: left;
-	color: red;
+	color: black;
 }
 
 body {
-	background-image: url('Tork-Website-Background.png'); 
+	background-image: url('cool-background.png'); 
 }
+
+p2 {
+	color: black;
+	vertical-align: 20px
+	
+}
+
+
