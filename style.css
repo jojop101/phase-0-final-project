@@ -8,7 +8,7 @@ h2 {
 	color: black;
 }
 
-p1 {
+p {
 	float: left;
 	color: black;
 }
@@ -17,10 +17,11 @@ body {
 	background-image: url('cool-background.png'); 
 }
 
-p2 {
-	color: black;
-	vertical-align: 20px
-	
+
+
+img {
+    max-width:25%;
+    height:auto;
 }
 
 
